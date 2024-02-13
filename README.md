@@ -1,8 +1,13 @@
-### Hello guys!
+### Helloo guys! I'm Fika.
 ===================
 
-Perkenalkan aku **Alifa Nurfika**.<br>
-Aku seorang mahasiswa **teknologi informasi** Universitas Brawijaya.<br>
+an IT student who likes to learn about new things, especially about mobile application development using flutter.<br>
 
-Pada akun github ini aku bakal sharing beberapa pengalamanku serta ilmu yang aku peroleh selama mengikuti kegiatan **Bangkit Academy Batch 1 2024 as a Cloud Computing Cohort**.<br>
+I'm currently active in contributing as Cloud Computing Cohort at Bangkit Academy Batch 1 2024 by Google, Goto, Traveloka.<br>
+
+- I'm currently studying at FILKOM UB <br>
+- I’m currently learning about cloud technology in Bangkit Academy <br>
+- I'm currently learning about dart and flutter for mobile development apps<br>
+
+
 
