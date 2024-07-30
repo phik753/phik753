@@ -1,7 +1,7 @@
 ### Helloo guys! I'm Fika.
 ===================
 
-an IT student who likes to learn about new things, especially about mobile application development using flutter.<br>
+an IT student who likes to learn about new things.<br>
 
 
 
