@@ -1,9 +1,5 @@
 ### Helloo guys! I'm Fika.
-===================
-
 an IT student who likes to learn about new things.<br>
-
-
 
 ## Github Statistic
 <p align="left">
